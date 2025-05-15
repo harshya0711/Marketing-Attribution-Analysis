@@ -23,12 +23,5 @@ Query examples included:
 - Click-through-rate (CTR)
 - Cost per acquisition (CPA)
 
-See: `sql/analysis_queries.sql`
-
-## 📊 Dashboard Preview
-
-_(Add a screenshot here of your Power BI Dashboard)_
-
-## 📂 Folder Structure
 
 
